@@ -4,6 +4,16 @@ I'm currently learning Web Development and Data Science.
 
 <br />
 
+Here is a link to my personal portfolio website: <br />
+[phibry](https://www.phibry.ch/)
+
+<br />
+
+Status: <br />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a73bdc5e-0727-4d21-8abd-3bdcad4e96ab/deploy-status)](https://app.netlify.com/sites/hardcore-johnson-ac732a/deploys)
+
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
