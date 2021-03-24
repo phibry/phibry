@@ -14,11 +14,11 @@ Status Portfolio Website: <br />
 
 <br />
 
-Status streamlit-Python WebAPP: <br />
+<!-- Status streamlit-Python WebAPP: <br />
 
 ![Heroku](https://pyheroku-badge.herokuapp.com/?app=firstapp-phibry&style=plastic)
 
-<br />
+<br /> -->
 
 ### Languages and Tools:
 
@@ -33,6 +33,8 @@ Status streamlit-Python WebAPP: <br />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
