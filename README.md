@@ -12,7 +12,7 @@ Here is a link to my personal portfolio website: <br />
 Status Portfolio Website: <br />
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a73bdc5e-0727-4d21-8abd-3bdcad4e96ab/deploy-status)](https://app.netlify.com/sites/hardcore-johnson-ac732a/deploys)
 
-<br />
+<br /> 
 
 ### Languages and Tools:
 
