@@ -1,6 +1,6 @@
 ## Hi, I'm Phil
 
-I work as a software engineer and am passionate about web development and data science.
+I work as a software engineer and am passionate about software development and data science.
 
 ### Languages
 
