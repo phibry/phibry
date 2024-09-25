@@ -1,7 +1,5 @@
 ## Hi, I'm Phil
 
-I work as a software engineer and am passionate about software development and data science.
-
 ### Languages
 
 <img align="left" alt="Java" width="26px" src="img/java.png" />
